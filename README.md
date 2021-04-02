@@ -4,4 +4,4 @@ Atividade 5 para a disciplina de Tecnologias Backend da Especialização Lato Se
 
 Servidor backend em NodeJS usando ExpressJS servindo arquivos de frontend estáticos, usando middlewares, templates PUG e gravando no MongoDB nas nuvens. 
 
-Explicações podem ser vistas em 
+Explicações podem ser vistas em https://youtu.be/lPjzSulr9R8
